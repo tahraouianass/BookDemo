@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|c:\\users\\anass\\onedrive\\desktop\\dotnetpr\\webbook\\webbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1C8D80-56F7-453E-9738-D2A30E8D6C75}|WebBook\\WebBook.csproj|solutionrelative:webbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebBook\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebBook\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T14:23:15.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebBook\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebBook\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:19:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebBook\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebBook\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T14:17:19.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebBook\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebBook\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T14:16:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebBook\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebBook\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T14:16:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Program.cs",
+              "RelativeDocumentMoniker": "WebBook\\Program.cs",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Program.cs",
+              "RelativeToolTip": "WebBook\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:54:32.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebBook\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebBook\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-17T12:53:11.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBook\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\WebBook\\WebBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBook\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:52:55.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
